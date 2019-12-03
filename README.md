@@ -222,4 +222,6 @@ The Dog Story and Lucia Story are two of the four narrative texts from the BALE 
 | 1_LUCIA.txt  | AD       |    81 |                    8 | F        | 1     |
 | 8_LUCIA.txt  | AD       |    79 |                    8 | M        | 1     |
 | 4_LUCIA.txt  | AD       |    73 |                    4 | M        | 1     |
+
+
 Both datasets were collected by the team coordinated by **Professor Dr. Lilian Cristine Hübner** of the School of Humanities of the Pontifical Catholic University (PUC) of Rio Grande do Sul, PUCRS.

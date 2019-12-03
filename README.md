@@ -5,7 +5,7 @@ Data from these datasets were collected from participants in clinical or academi
 ## The Wallet Story from ABCD (Arizona Battery for Communication Disorders)
 ABCD is a standardized test battery for the comprehensive assessment and screening of dementia. It includes 17 subtests that evaluate linguistic expression, linguistic comprehension, verbal episodic memory via immediate/delayed recall of stories, visuospatial construction, and mental status. 
 
-The subtest which is important for our study is the evaluation of the episodic memory, which is composed of the immediate and late retelling of a memorized story, the Wallet Story.   This story was translated and adapted to Brazilian Portuguese by Danielle Rüegg, Isabel Maranhão de Carvalho, Leticia Lessa Mansur and Márcia Radanovic, and was applied  and collected by the team coordinated by Professor Leticia Lessa Mansur at the University of São Paulo Medical School to 23 elders with MCI and 12 healthy aging adults; totaling 70 narratives. This test has 17 units of information, with possible alternatives, with 17 being its maximum score. The table below shows the demographics of the  Wallet Story dataset.
+The subtest which is important for our study is the evaluation of the episodic memory, which is composed of the immediate and late retelling of a memorized story, the Wallet Story.   This story was translated and adapted to Brazilian Portuguese by Danielle Rüegg, Isabel Maranhão de Carvalho, Leticia Lessa Mansur and Márcia Radanovic, and was applied  and collected by the team coordinated by Professor Leticia Lessa Mansur at the University of São Paulo Medical School to 23 elders with MCI and 12 healthy aging adults; totaling 70 narratives. This test has 17 units of information, with possible alternatives, with 17 being its maximum score. The Table below shows the demographics of the  Wallet Story dataset.
 
 | Samples                                             | Group    | Age   | Years of Education   |  MM Total   | ACE-R Total   |
 |:----------------------------------------------------|:---------|:------|:---------------------|:------------|:--------------|
@@ -43,9 +43,70 @@ The subtest which is important for our study is the evaluation of the episodic m
 
 
 ## The Cinderella Dataset
-The Cinderella dataset consists of spontaneous speech narratives produced during a test to elicit narrative discourse with visual stimuli, using a book composed of sequenced pictures based on the Cinderella Story. In the test, an individual verbally tells the story to the examiner based on the pictures. The narrative is manually transcribed by a trained annotator who scores the narrative by counting the number of recalled propositions/units of information; there are 28 informational units to be recalled, presented in 23 pictures. This dataset consists of 60 narratives from Brazilian Portuguese speakers (20 controls, 20 with AD, and 20 with amnestic MCI (aMCI)),  diagnosed at the University of São Paulo Medical School. It was applied  and collected by the team coordinated by **Professor Leticia Lessa Mansur** at the University of São Paulo Medical School. The table below shows the demographics of the Cinderella Dataset.
+The Cinderella dataset consists of spontaneous speech narratives produced during a test to elicit narrative discourse with visual stimuli, using a book composed of sequenced pictures based on the Cinderella Story. In the test, an individual verbally tells the story to the examiner based on the pictures. The narrative is manually transcribed by a trained annotator who scores the narrative by counting the number of recalled propositions/units of information; there are 28 informational units to be recalled, presented in 23 pictures. This dataset consists of 60 narratives from Brazilian Portuguese speakers (20 controls, 20 with AD, and 20 with amnestic MCI (aMCI)),  diagnosed at the University of São Paulo Medical School. It was applied  and collected by the team coordinated by **Professor Leticia Lessa Mansur** at the University of São Paulo Medical School. The Table below shows the demographics of the Cinderella Dataset.
 
-
+| Samples           | Group    |   Age |   Years of Education |    MEEM | Gender   |
+|:------------------|:---------|------:|---------------------:|--------:|:---------|
+| 9_Cinderella.txt  | AD       |    80 |                    8 |      21 | F        |
+| 2_Cinderella.txt  | AD       |    78 |                    3 |      21 | M        |
+| 4_Cinderella.txt  | AD       |    78 |                    3 |      24 | M        |
+| 3_Cinderella.txt  | AD       |    72 |                    4 |      18 | F        |
+| 16_Cinderella.txt | AD       |    68 |                    8 |      24 | F        |
+| 13_Cinderella.txt | AD       |    79 |                    8 |      24 | F        |
+| 19_Cinderella.txt | AD       |    82 |                   17 |      22 | M        |
+| 15_Cinderella.txt | AD       |    72 |                    4 |      20 | M        |
+| 17_Cinderella.txt | AD       |    78 |                    7 |      21 | M        |
+| 7_Cinderella.txt  | AD       |    83 |                    4 |      20 | F        |
+| 14_Cinderella.txt | AD       |    86 |                   20 |      29 | M        |
+| 0_Cinderella.txt  | AD       |    86 |                   12 |      26 | M        |
+| 12_Cinderella.txt | AD       |    76 |                   16 |      21 | M        |
+| 1_Cinderella.txt  | AD       |    77 |                   15 |      27 | M        |
+| 10_Cinderella.txt | AD       |    76 |                    4 |      25 | F        |
+| 8_Cinderella.txt  | AD       |    81 |                    4 |      27 | M        |
+| 11_Cinderella.txt | AD       |    70 |                    4 |      20 | F        |
+| 5_Cinderella.txt  | AD       |    76 |                   12 |      21 | F        |
+| 18_Cinderella.txt | AD       |    80 |                   15 |      28 | M        |
+| 6_Cinderella.txt  | AD       |    85 |                    4 |      20 | F        |
+| 37_Cinderella.txt | MCI      |    63 |                   11 |      27 | F        |
+| 39_Cinderella.txt | MCI      |    76 |                    8 |      27 | F        |
+| 22_Cinderella.txt | MCI      |    66 |                   15 |      28 | M        |
+| 38_Cinderella.txt | MCI      |    72 |                    5 |      27 | F        |
+| 25_Cinderella.txt | MCI      |    81 |                   16 |      27 | M        |
+| 20_Cinderella.txt | MCI      |    72 |                   12 |      29 | F        |
+| 23_Cinderella.txt | MCI      |    67 |                    4 |      28 | F        |
+| 33_Cinderella.txt | MCI      |    75 |                    6 |      29 | F        |
+| 36_Cinderella.txt | MCI      |    66 |                   15 |      30 | F        |
+| 31_Cinderella.txt | MCI      |    67 |                    6 |      28 | F        |
+| 21_Cinderella.txt | MCI      |    81 |                   16 |      29 | M        |
+| 34_Cinderella.txt | MCI      |    80 |                   20 |      29 | F        |
+| 28_Cinderella.txt | MCI      |    79 |                   11 |      29 | F        |
+| 26_Cinderella.txt | MCI      |    70 |                    8 |      29 | F        |
+| 30_Cinderella.txt | MCI      |    83 |                   11 |      30 | M        |
+| 27_Cinderella.txt | MCI      |    71 |                   12 |      26 | F        |
+| 32_Cinderella.txt | MCI      |    77 |                   12 |      29 | M        |
+| 29_Cinderella.txt | MCI      |    74 |                   15 |      29 | M        |
+| 35_Cinderella.txt | MCI      |    77 |                    5 |      27 | F        |
+| 24_Cinderella.txt | MCI      |    68 |                    8 |      28 | F        |
+| 52_Cinderella.txt | Control  |    80 |                   11 |      29 | F        |
+| 42_Cinderella.txt | Control  |    64 |                   15 |      30 | F        |
+| 56_Cinderella.txt | Control  |    72 |                   11 |      30 | F        |
+| 58_Cinderella.txt | Control  |    61 |                   15 |      30 | M        |
+| 49_Cinderella.txt | Control  |    95 |                   14 |      29 | F        |
+| 40_Cinderella.txt | Control  |    83 |                    6 |      29 | M        |
+| 44_Cinderella.txt | Control  |    83 |                    7 |      30 | M        |
+| 41_Cinderella.txt | Control  |    76 |                   11 |      30 | M        |
+| 45_Cinderella.txt | Control  |    66 |                   12 |      30 | F        |
+| 43_Cinderella.txt | Control  |    67 |                   15 |      30 | M        |
+| 50_Cinderella.txt | Control  |    92 |                   11 |      28 | F        |
+| 57_Cinderella.txt | Control  |    72 |                   11 |      30 | F        |
+| 55_Cinderella.txt | Control  |    72 |                   12 |      29 | F        |
+| 54_Cinderella.txt | Control  |    62 |                   11 |      28 | F        |
+| 47_Cinderella.txt | Control  |    62 |                   15 |      30 | F        |
+| 51_Cinderella.txt | Control  |    85 |                   15 |      30 | F        |
+| 48_Cinderella.txt | Control  |    66 |                   11 |      23 | F        |
+| 59_Cinderella.txt | Control  |    92 |                    6 |      28 | F        |
+| 53_Cinderella.txt | Control  |    61 |                   11 |      30 | F        |
+| 46_Cinderella.txt | Control  |    85 |                   14 |      29 | F        |
 
 ## The Dog Story and Lucia Story Datasets from BALE
 BALE (Battery of Language Assessment in Aging) is a standardized battery with norms for the healthy elders Brazilian population illiterate, with low (2 to 8 years of schooling) and high (9 years or more) education, from 60 to 90 years old.
@@ -54,7 +115,7 @@ BALE provides the academy and clinic with standardized and validated tasks, fill
 
 The Dog Story and Lucia Story are two of the four narrative texts from the BALE  instrument. The Dog Story dataset is composed of transcriptions from the oral narrative production test based on the presentation of a set of seven pictures telling a story of a boy who hides a dog that he found on the street. This dataset consists of 106 narrative texts from Brazilian Portuguese speakers, where there are 82 healthy aging adults, 12 with AD, and 12 with MCI. BALE also includes a task of retelling and text comprehension of an orally presented story called Lucia Story. This test has 24 units of information, with possible alternatives, with 24 being its maximum score. This retelling test was applied to 9 Alzheimer's individuals and 80 healthy aging adults.
 
-The table below shows the demographics of the Dog Story dataset.
+The Table below shows the demographics of the Dog Story dataset.
 
 | Sample      | Group    |   Age |   Years of Education | CDR   |  Amnéstic   | Multiple Domains   | Gender   |
 |:------------|:---------|------:|---------------------:|:------|:------------|:-------------------|:---------|
@@ -165,7 +226,7 @@ The table below shows the demographics of the Dog Story dataset.
 | 81_Dog.txt  | Control  |    60 |                    7 | 2     |             |                    | F        |
 | 24_Dog.txt  | Control  |    67 |                    4 | 2     |             |                    | F        |
 
-The table below shows the demographics of the Lucia Story dataset.
+The Table below shows the demographics of the Lucia Story dataset.
 
 | Sample       | Group    |   Age |   Years of Education | Gender   | CDR   |
 |:-------------|:---------|------:|---------------------:|:---------|:------|

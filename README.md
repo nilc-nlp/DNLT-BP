@@ -17,4 +17,114 @@ BALE provides the academy and clinic with standardized and validated tasks, fill
 
 The Dog Story and Lucia Story are two of the four narrative texts from the BALE  instrument. The Dog Story dataset is composed of transcriptions from the oral narrative production test based on the presentation of a set of seven pictures telling a story of a boy who hides a dog that he found on the street. This dataset consists of 106 narrative texts from Brazilian Portuguese speakers, where there are 82 healthy aging adults, 12 with AD, and 12 with MCI. BALE also includes a task of retelling and text comprehension of an orally presented story called Lucia Story. This test has 24 units of information, with possible alternatives, with 24 being its maximum score. This retelling test was applied to 9 Alzheimer's individuals and 80 healthy aging adults. 
 
+| Sample      | Group    |   Age |   Years of Education | CDR   |  Amnéstic   | Multiple Domains   | Gender   |
+|:------------|:---------|------:|---------------------:|:------|:------------|:-------------------|:---------|
+| 14_Dog.txt  | MCI      |    71 |                   18 | 0.5   | Y           | N                  | M        |
+| 18_Dog.txt  | MCI      |    72 |                   12 | 0.5   | Y           | N                  | F        |
+| 12_Dog.txt  | MCI      |    81 |                    0 | 0.5   | N           | Y                  | F        |
+| 19_Dog.txt  | MCI      |    66 |                    4 | 0.5   | N           | Y                  | M        |
+| 15_Dog.txt  | MCI      |    64 |                    6 | 0.5   | Y           | N                  | F        |
+| 21_Dog.txt  | MCI      |    57 |                    4 | 0.5   | Y           | N                  | M        |
+| 13_Dog.txt  | MCI      |    80 |                    8 | 0.5   | Y           | N                  | F        |
+| 22_Dog.txt  | MCI      |    81 |                    4 | 0.5   | Y           | N                  | M        |
+| 20_Dog.txt  | MCI      |    82 |                    2 | 0.5   | Y           | N                  | F        |
+| 16_Dog.txt  | MCI      |    68 |                    3 | 0.5   | Y           | N                  | F        |
+| 17_Dog.txt  | MCI      |    71 |                    4 | 0.5   | N           | Y                  | M        |
+| 23_Dog.txt  | MCI      |    74 |                    3 | 0.5   | Y           | N                  | F        |
+| 10_Dog.txt  | AD       |    59 |                    1 | 1     |             |                    | F        |
+| 7_Dog.txt   | AD       |    65 |                    1 | 1     |             |                    | F        |
+| 1_Dog.txt   | AD       |    73 |                    0 | 1     |             |                    | F        |
+| 8_Dog.txt   | AD       |    60 |                    1 | 1     |             |                    | F        |
+| 2_Dog.txt   | AD       |    80 |                    6 | 1     |             |                    | F        |
+| 6_Dog.txt   | AD       |    81 |                    4 | 1     |             |                    | F        |
+| 0_Dog.txt   | AD       |    68 |                    8 | 1     |             |                    | F        |
+| 3_Dog.txt   | AD       |    69 |                    3 | 1     |             |                    | F        |
+| 11_Dog.txt  | AD       |    81 |                    4 | 1     |             |                    | M        |
+| 4_Dog.txt   | AD       |    79 |                    6 | 1     |             |                    | F        |
+| 9_Dog.txt   | AD       |    74 |                    5 | 1     |             |                    | M        |
+| 5_Dog.txt   | AD       |    67 |                    5 | 1     |             |                    | M        |
+| 90_Dog.txt  | Control  |    67 |                   16 |       |             |                    | F        |
+| 70_Dog.txt  | Control  |    65 |                   13 | 2     |             |                    | F        |
+| 32_Dog.txt  | Control  |    64 |                   17 | 2     |             |                    | F        |
+| 99_Dog.txt  | Control  |    69 |                   16 | 2     |             |                    | F        |
+| 31_Dog.txt  | Control  |    72 |                   11 | 2     |             |                    | F        |
+| 77_Dog.txt  | Control  |    67 |                    9 |       |             |                    | F        |
+| 64_Dog.txt  | Control  |    74 |                   17 | 2     |             |                    | F        |
+| 56_Dog.txt  | Control  |    70 |                   16 | 2     |             |                    | F        |
+| 84_Dog.txt  | Control  |    71 |                   12 | 2     |             |                    | F        |
+| 51_Dog.txt  | Control  |    61 |                   16 | 2     |             |                    | F        |
+| 36_Dog.txt  | Control  |    67 |                   10 | 2     |             |                    | F        |
+| 96_Dog.txt  | Control  |    73 |                   14 | 1     |             |                    | F        |
+| 86_Dog.txt  | Control  |    73 |                   16 | 2     |             |                    | F        |
+| 55_Dog.txt  | Control  |    60 |                   18 | 2     |             |                    | F        |
+| 52_Dog.txt  | Control  |    76 |                   12 | 2     |             |                    | F        |
+| 49_Dog.txt  | Control  |    65 |                   18 | 2     |             |                    | F        |
+| 87_Dog.txt  | Control  |    60 |                   18 | 2     |             |                    | F        |
+| 45_Dog.txt  | Control  |    60 |                   12 | 2     |             |                    | F        |
+| 76_Dog.txt  | Control  |    61 |                   16 | 2     |             |                    | F        |
+| 82_Dog.txt  | Control  |    65 |                   16 | 1     |             |                    | F        |
+| 25_Dog.txt  | Control  |    68 |                   16 | 2     |             |                    | F        |
+| 43_Dog.txt  | Control  |    77 |                   16 | 2     |             |                    | F        |
+| 42_Dog.txt  | Control  |    70 |                   15 | 2     |             |                    | F        |
+| 79_Dog.txt  | Control  |    60 |                   16 | 2     |             |                    | F        |
+| 91_Dog.txt  | Control  |    67 |                   12 | 2     |             |                    | F        |
+| 80_Dog.txt  | Control  |    76 |                   11 | 2     |             |                    | F        |
+| 59_Dog.txt  | Control  |    66 |                   12 | 2     |             |                    | F        |
+| 58_Dog.txt  | Control  |    77 |                    9 | 2     |             |                    | F        |
+| 60_Dog.txt  | Control  |    60 |                    9 | 2     |             |                    | F        |
+| 34_Dog.txt  | Control  |    73 |                   18 | 2     |             |                    | F        |
+| 69_Dog.txt  | Control  |    66 |                   18 | 2     |             |                    | F        |
+| 85_Dog.txt  | Control  |    69 |                   16 | 2     |             |                    | F        |
+| 94_Dog.txt  | Control  |    75 |                   16 | 2     |             |                    | F        |
+| 72_Dog.txt  | Control  |    72 |                   19 | 2     |             |                    | F        |
+| 68_Dog.txt  | Control  |    72 |                   16 | 2     |             |                    | F        |
+| 26_Dog.txt  | Control  |    69 |                   12 | 2     |             |                    | F        |
+| 61_Dog.txt  | Control  |    65 |                   18 | 2     |             |                    | F        |
+| 100_Dog.txt | Control  |    60 |                   16 | 2     |             |                    | F        |
+| 38_Dog.txt  | Control  |    74 |                   16 | 2     |             |                    | F        |
+| 46_Dog.txt  | Control  |    68 |                   12 | 2     |             |                    | F        |
+| 92_Dog.txt  | Control  |    61 |                   17 | 2     |             |                    | F        |
+| 63_Dog.txt  | Control  |    65 |                   18 | 2     |             |                    | F        |
+| 104_Dog.txt | Control  |    74 |                   11 | 1     |             |                    | F        |
+| 65_Dog.txt  | Control  |    68 |                   13 | 2     |             |                    | F        |
+| 37_Dog.txt  | Control  |    70 |                   16 | 2     |             |                    | F        |
+| 67_Dog.txt  | Control  |    62 |                   15 | 2     |             |                    | F        |
+| 28_Dog.txt  | Control  |    63 |                   16 | 1     |             |                    | F        |
+| 105_Dog.txt | Control  |    72 |                   12 | 1     |             |                    | F        |
+| 88_Dog.txt  | Control  |    63 |                    0 | 1     |             |                    | F        |
+| 75_Dog.txt  | Control  |    79 |                    5 | 2     |             |                    | F        |
+| 62_Dog.txt  | Control  |    75 |                    8 | 2     |             |                    | F        |
+| 98_Dog.txt  | Control  |    73 |                    8 | 2     |             |                    | F        |
+| 101_Dog.txt | Control  |    72 |                    4 | 2     |             |                    | F        |
+| 102_Dog.txt | Control  |    67 |                    8 | 2     |             |                    | F        |
+| 89_Dog.txt  | Control  |    63 |                    6 | 2     |             |                    | F        |
+| 103_Dog.txt | Control  |    76 |                    5 | 1     |             |                    | F        |
+| 97_Dog.txt  | Control  |    62 |                    5 | 1     |             |                    | F        |
+| 35_Dog.txt  | Control  |    66 |                    6 | 2     |             |                    | F        |
+| 27_Dog.txt  | Control  |    74 |                    8 | 2     |             |                    | F        |
+| 93_Dog.txt  | Control  |    72 |                    8 | 2     |             |                    | F        |
+| 54_Dog.txt  | Control  |    62 |                    5 | 2     |             |                    | F        |
+| 44_Dog.txt  | Control  |    72 |                    6 | 2     |             |                    | F        |
+| 33_Dog.txt  | Control  |    72 |                    3 | 2     |             |                    | F        |
+| 57_Dog.txt  | Control  |    69 |                    8 | 2     |             |                    | F        |
+| 95_Dog.txt  | Control  |    76 |                    8 | 1     |             |                    | F        |
+| 73_Dog.txt  | Control  |    63 |                    7 | 1     |             |                    | F        |
+| 41_Dog.txt  | Control  |    76 |                    5 | 1     |             |                    | F        |
+| 83_Dog.txt  | Control  |    70 |                    6 | 2     |             |                    | F        |
+| 48_Dog.txt  | Control  |    72 |                    5 | 2     |             |                    | F        |
+| 71_Dog.txt  | Control  |    75 |                    8 | 1     |             |                    | F        |
+| 66_Dog.txt  | Control  |    76 |                    3 | 1     |             |                    | F        |
+| 40_Dog.txt  | Control  |    60 |                    3 | 1     |             |                    | F        |
+| 30_Dog.txt  | Control  |    65 |                    6 | 2     |             |                    | F        |
+| 78_Dog.txt  | Control  |    74 |                    3 | 2     |             |                    | F        |
+| 74_Dog.txt  | Control  |    60 |                    4 | 2     |             |                    | F        |
+| 53_Dog.txt  | Control  |    74 |                    2 | 2     |             |                    | F        |
+| 39_Dog.txt  | Control  |    73 |                    3 | 2     |             |                    | F        |
+| 50_Dog.txt  | Control  |    68 |                    5 | 1     |             |                    | F        |
+| 47_Dog.txt  | Control  |    80 |                    3 | 2     |             |                    | F        |
+| 29_Dog.txt  | Control  |    67 |                    5 | 2     |             |                    | F        |
+| 81_Dog.txt  | Control  |    60 |                    7 | 2     |             |                    | F        |
+| 24_Dog.txt  | Control  |    67 |                    4 | 2     |             |                    | F        |
+
+
 Both datasets were collected by the team coordinated by **Professor Dr. Lilian Cristine Hübner** of the School of Humanities of the Pontifical Catholic University (PUC) of Rio Grande do Sul, PUCRS.

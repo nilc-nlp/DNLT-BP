@@ -5,10 +5,46 @@ Data from these datasets were collected from participants in clinical or academi
 ## The Wallet Story from ABCD (Arizona Battery for Communication Disorders)
 ABCD is a standardized test battery for the comprehensive assessment and screening of dementia. It includes 17 subtests that evaluate linguistic expression, linguistic comprehension, verbal episodic memory via immediate/delayed recall of stories, visuospatial construction, and mental status. 
 
-The subtest which is important for our study is the evaluation of the episodic memory, which is composed of the immediate and late retelling of a memorized story, the Wallet Story.   This story was translated and adapted to Brazilian Portuguese by Danielle Rüegg, Isabel Maranhão de Carvalho, Leticia Lessa Mansur and Márcia Radanovic, and was applied  and collected by the team coordinated by Professor Leticia Lessa Mansur at the University of São Paulo Medical School to 23 elders with MCI and 12 healthy aging adults; totaling 70 narratives. This test has 17 units of information, with possible alternatives, with 17 being its maximum score.
+The subtest which is important for our study is the evaluation of the episodic memory, which is composed of the immediate and late retelling of a memorized story, the Wallet Story.   This story was translated and adapted to Brazilian Portuguese by Danielle Rüegg, Isabel Maranhão de Carvalho, Leticia Lessa Mansur and Márcia Radanovic, and was applied  and collected by the team coordinated by Professor Leticia Lessa Mansur at the University of São Paulo Medical School to 23 elders with MCI and 12 healthy aging adults; totaling 70 narratives. This test has 17 units of information, with possible alternatives, with 17 being its maximum score. The table below shows the demographics of the  Wallet Story dataset.
+
+| Samples                                             | Group    | Age   | Years of Education   |  MM Total   | ACE-R Total   |
+|:----------------------------------------------------|:---------|:------|:---------------------|:------------|:--------------|
+| 0_immediately_Wallet.txt and 0_delayed_Wallet.txt   | MCI      | 72    | 16                   |             |               |
+| 1_immediately_Wallet.txt and 1_delayed_Wallet.txt   | MCI      | 79    | 11                   |             |               |
+| 4_immediately_Wallet.txt and 4_delayed_Wallet.txt   | MCI      | 74    | 15                   |             |               |
+| 5_immediately_Wallet.txt and 5_delayed_Wallet.txt   | MCI      |       |                      |             |               |
+| 6_immediately_Wallet.txt and 6_delayed_Wallet.txt   | MCI      | 68    | 17                   | 29          | 88            |
+| 7_immediately_Wallet.txt and 7_delayed_Wallet.txt   | MCI      | 75    | 12                   |             |               |
+| 8_immediately_Wallet.txt and 8_delayed_Wallet.txt   | MCI      |       |                      |             |               |
+| 9_immediately_Wallet.txt and 9_delayed_Wallet.txt   | MCI      | 69    | 7                    | 29          |               |
+| 10_immediately_Wallet.txt and 10_delayed_Wallet.txt | MCI      | 63    | 20                   |             |               |
+| 12_immediately_Wallet.txt and 12_delayed_Wallet.txt | MCI      | 67    | 17                   |             |               |
+| 13_immediately_Wallet.txt and 13_delayed_Wallet.txt | MCI      | 89    | 19                   |             |               |
+| 14_immediately_Wallet.txt and 14_delayed_Wallet.txt | MCI      |       |                      |             |               |
+| 15_immediately_Wallet.txt and 15_delayed_Wallet.txt | MCI      | 63    | 12                   |             |               |
+| 16_immediately_Wallet.txt and 16_delayed_Wallet.txt | MCI      | 73    | 11                   |             |               |
+| 17_immediately_Wallet.txt and 17_delayed_Wallet.txt | MCI      | 82    | 14                   |             |               |
+| 18_immediately_Wallet.txt and 18_delayed_Wallet.txt | MCI      | 85    | 11                   |             |               |
+| 19_immediately_Wallet.txt and 19_delayed_Wallet.txt | MCI      |       |                      |             |               |
+| 20_immediately_Wallet.txt and 20_delayed_Wallet.txt | MCI      | 72    | 16                   |             |               |
+| 21_immediately_Wallet.txt and 21_delayed_Wallet.txt | MCI      |       |                      |             |               |
+| 22_immediately_Wallet.txt and 22_delayed_Wallet.txt | MCI      | 70    | 8                    |             |               |
+| 23_immediately_Wallet.txt and 23_delayed_Wallet.txt | Control  | 59    | 24                   | 30          | 96            |
+| 24_immediately_Wallet.txt and 24_delayed_Wallet.txt | Control  | 66    | 18                   | 26          | 89            |
+| 25_immediately_Wallet.txt and 25_delayed_Wallet.txt | Control  |       |                      |             |               |
+| 26_immediately_Wallet.txt and 26_delayed_Wallet.txt | Control  | 63    | 29                   | 28          | 81            |
+| 27_immediately_Wallet.txt and 27_delayed_Wallet.txt | Control  | 60    | 16                   | 29          | 93            |
+| 28_immediately_Wallet.txt and 28_delayed_Wallet.txt | Control  | 60    | 12                   | 27          | 82            |
+| 29_immediately_Wallet.txt and 29_delayed_Wallet.txt | Control  | 61    | 16                   | 28          | 96            |
+| 30_immediately_Wallet.txt and 30_delayed_Wallet.txt | Control  | 69    | 21                   | 28          | 90            |
+| 31_immediately_Wallet.txt and 31_delayed_Wallet.txt | Control  | 65    | 11                   | 25          | 81            |
+| 32_immediately_Wallet.txt and 32_delayed_Wallet.txt | Control  |       |                      |             |               |
+| 33_immediately_Wallet.txt and 33_delayed_Wallet.txt | Control  | 55    | 11                   | 29          | 81            |
+
 
 ## The Cinderella Dataset
 The Cinderella dataset consists of spontaneous speech narratives produced during a test to elicit narrative discourse with visual stimuli, using a book composed of sequenced pictures based on the Cinderella Story. In the test, an individual verbally tells the story to the examiner based on the pictures. The narrative is manually transcribed by a trained annotator who scores the narrative by counting the number of recalled propositions/units of information; there are 28 informational units to be recalled, presented in 23 pictures. This dataset consists of 60 narratives from Brazilian Portuguese speakers (20 controls, 20 with AD, and 20 with amnestic MCI (aMCI)),  diagnosed at the University of São Paulo Medical School. It was applied  and collected by the team coordinated by **Professor Leticia Lessa Mansur** at the University of São Paulo Medical School. The table below shows the demographics of the Cinderella Dataset.
+
 
 
 ## The Dog Story and Lucia Story Datasets from BALE

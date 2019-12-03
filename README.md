@@ -126,5 +126,100 @@ The Dog Story and Lucia Story are two of the four narrative texts from the BALE 
 | 81_Dog.txt  | Control  |    60 |                    7 | 2     |             |                    | F        |
 | 24_Dog.txt  | Control  |    67 |                    4 | 2     |             |                    | F        |
 
-
+| Sample       | Group    |   Age |   Years of Education | Gender   | CDR   |
+|:-------------|:---------|------:|---------------------:|:---------|:------|
+| 56_Dog.txt   | Control  |    70 |                   16 | F        |       |
+| 58_Dog.txt   | Control  |    77 |                    9 | F        |       |
+| 36_LUCIA.txt | Control  |    73 |                   16 | F        |       |
+| 65_Dog.txt   | Control  |    68 |                   13 | F        |       |
+| 31_Dog.txt   | Control  |    72 |                   11 | F        |       |
+| 82_Dog.txt   | Control  |    65 |                   16 | M        |       |
+| 99_Dog.txt   | Control  |    69 |                   16 | F        |       |
+| 18_LUCIA.txt | Control  |    72 |                    9 | F        |       |
+| 90_Dog.txt   | Control  |    67 |                   16 | M        |       |
+| 49_Dog.txt   | Control  |    65 |                   18 | M        |       |
+| 52_Dog.txt   | Control  |    76 |                   12 | F        |       |
+| 32_LUCIA.txt | Control  |    80 |                   19 | F        |       |
+| 84_Dog.txt   | Control  |    71 |                   12 | F        |       |
+| 86_Dog.txt   | Control  |    73 |                   16 | F        |       |
+| 34_Dog.txt   | Control  |    73 |                   18 | F        |       |
+| 85_Dog.txt   | Control  |    69 |                   16 | F        |       |
+| 27_LUCIA.txt | Control  |    65 |                   18 | F        |       |
+| 64_Dog.txt   | Control  |    74 |                   17 | F        |       |
+| 42_LUCIA.txt | Control  |    66 |                   17 | F        |       |
+| 77_Dog.txt   | Control  |    67 |                    9 | F        |       |
+| 56_LUCIA.txt | Control  |    78 |                   14 | F        |       |
+| 96_Dog.txt   | Control  |    73 |                   14 | M        |       |
+| 84_LUCIA.txt | Control  |    76 |                   16 | M        |       |
+| 29_LUCIA.txt | Control  |    69 |                   12 | M        |       |
+| 72_Dog.txt   | Control  |    72 |                   19 | F        |       |
+| 37_Dog.txt   | Control  |    70 |                   16 | F        |       |
+| 25_Dog.txt   | Control  |    68 |                   16 | F        |       |
+| 80_Dog.txt   | Control  |    76 |                   11 | F        |       |
+| 29_LUCIA.txt | Control  |    69 |                   12 | M        |       |
+| 42_Dog.txt   | Control  |    70 |                   15 | F        |       |
+| 10_LUCIA.txt | Control  |    72 |                   16 | F        |       |
+| 69_LUCIA.txt | Control  |    65 |                   12 | M        |       |
+| 61_Dog.txt   | Control  |    65 |                   18 | F        |       |
+| 26_Dog.txt   | Control  |    69 |                   12 | F        |       |
+| 43_Dog.txt   | Control  |    77 |                   16 | F        |       |
+| 46_LUCIA.txt | Control  |    76 |                   16 | F        |       |
+| 69_Dog.txt   | Control  |    66 |                   18 | F        |       |
+| 38_LUCIA.txt | Control  |    78 |                   16 | F        |       |
+| 94_Dog.txt   | Control  |    75 |                   16 | M        |       |
+| 22_LUCIA.txt | Control  |    69 |                   14 | F        |       |
+| 69_LUCIA.txt | Control  |    65 |                   12 | M        |       |
+| 65_LUCIA.txt | Control  |    67 |                    5 | M        |       |
+| 83_Dog.txt   | Control  |    70 |                    6 | F        |       |
+| 80_LUCIA.txt | Control  |    72 |                    3 | F        |       |
+| 101_Dog.txt  | Control  |    73 |                    4 | F        |       |
+| 64_LUCIA.txt | Control  |    67 |                    3 | M        |       |
+| 33_Dog.txt   | Control  |    72 |                    3 | F        |       |
+| 66_Dog.txt   | Control  |    73 |                    3 | M        |       |
+| 48_Dog.txt   | Control  |    68 |                    4 | F        |       |
+| 28_LUCIA.txt | Control  |    75 |                    5 | F        |       |
+| 57_Dog.txt   | Control  |    69 |                    8 | F        |       |
+| 23_LUCIA.txt | Control  |    71 |                    8 | F        |       |
+| 28_LUCIA.txt | Control  |    75 |                    5 | F        |       |
+| 79_LUCIA.txt | Control  |    73 |                    4 | F        |       |
+| 30_Dog.txt   | Control  |    65 |                    6 | F        |       |
+| 24_Dog.txt   | Control  |    67 |                    4 | F        |       |
+| 81_LUCIA.txt | Control  |    75 |                    4 | F        |       |
+| 54_Dog.txt   | Control  |    63 |                    5 | F        |       |
+| 62_Dog.txt   | Control  |    75 |                    8 | F        |       |
+| 21_LUCIA.txt | Control  |    76 |                    8 | M        |       |
+| 60_LUCIA.txt | Control  |    70 |                    2 | F        |       |
+| 76_LUCIA.txt | Control  |    74 |                    5 | F        |       |
+| 24_LUCIA.txt | Control  |    80 |                    3 | F        |       |
+| 93_Dog.txt   | Control  |    72 |                    8 | F        |       |
+| 27_Dog.txt   | Control  |    74 |                    8 | F        |       |
+| 62_LUCIA.txt | Control  |    79 |                    7 | M        |       |
+| 47_Dog.txt   | Control  |    80 |                    3 | F        |       |
+| 74_LUCIA.txt | Control  |    68 |                    4 | F        |       |
+| 44_LUCIA.txt | Control  |    66 |                    6 | F        |       |
+| 78_Dog.txt   | Control  |    74 |                    3 | F        |       |
+| 50_Dog.txt   | Control  |    68 |                    5 | M        |       |
+| 17_LUCIA.txt | Control  |    68 |                    4 | F        |       |
+| 102_Dog.txt  | Control  |    68 |                    8 | F        |       |
+| 75_LUCIA.txt | Control  |    79 |                    2 | F        |       |
+| 14_LUCIA.txt | Control  |    82 |                    8 | F        |       |
+| 23_LUCIA.txt | Control  |    71 |                    8 | F        |       |
+| 44_LUCIA.txt | Control  |    66 |                    6 | F        |       |
+| 31_LUCIA.txt | Control  |    76 |                    3 | F        |       |
+| 50_Dog.txt   | Control  |    68 |                    5 | M        |       |
+| 73_LUCIA.txt | Control  |    73 |                    7 | M        |       |
+| 53_Dog.txt   | Control  |    74 |                    2 | F        |       |
+| 103_Dog.txt  | Control  |    76 |                    5 | M        |       |
+| 98_Dog.txt   | Control  |    73 |                    8 | F        |       |
+| 75_Dog.txt   | Control  |    79 |                    5 | F        |       |
+| 54_LUCIA.txt | Control  |    72 |                    5 | M        |       |
+| 7_LUCIA.txt  | AD       |    78 |                    4 | F        | 1     |
+| 9_Dog.txt    | AD       |    74 |                    5 | M        | 1     |
+| 2_LUCIA.txt  | AD       |    79 |                    8 | F        | 1     |
+| 6_LUCIA.txt  | AD       |    76 |                    8 | F        | 1     |
+| 0_Dog.txt    | AD       |    68 |                    8 | F        | 1     |
+| 11_Dog.txt   | AD       |    81 |                    4 | M        | 1     |
+| 1_LUCIA.txt  | AD       |    81 |                    8 | F        | 1     |
+| 8_LUCIA.txt  | AD       |    79 |                    8 | M        | 1     |
+| 4_LUCIA.txt  | AD       |    73 |                    4 | M        | 1     |
 Both datasets were collected by the team coordinated by **Professor Dr. Lilian Cristine Hübner** of the School of Humanities of the Pontifical Catholic University (PUC) of Rio Grande do Sul, PUCRS.

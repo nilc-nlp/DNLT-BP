@@ -11,6 +11,8 @@ The subtest which is important for our study is the evaluation of the episodic m
 |:----------------------------------------------------|:---------|:------|:---------------------|:------------|:--------------|
 | 0_immediately_Wallet.txt and 0_delayed_Wallet.txt   | MCI      | 72    | 16                   |             |               |
 | 1_immediately_Wallet.txt and 1_delayed_Wallet.txt   | MCI      | 79    | 11                   |             |               |
+| 2_immediately_Wallet.txt and 2_delayed_Wallet.txt   | MCI      |       |                      |             |               |
+| 3_immediately_Wallet.txt and 3_delayed_Wallet.txt   | MCI      |       |                      |             |               |
 | 4_immediately_Wallet.txt and 4_delayed_Wallet.txt   | MCI      | 74    | 15                   |             |               |
 | 5_immediately_Wallet.txt and 5_delayed_Wallet.txt   | MCI      |       |                      |             |               |
 | 6_immediately_Wallet.txt and 6_delayed_Wallet.txt   | MCI      | 68    | 17                   | 29          | 88            |
@@ -40,6 +42,7 @@ The subtest which is important for our study is the evaluation of the episodic m
 | 31_immediately_Wallet.txt and 31_delayed_Wallet.txt | Control  | 65    | 11                   | 25          | 81            |
 | 32_immediately_Wallet.txt and 32_delayed_Wallet.txt | Control  |       |                      |             |               |
 | 33_immediately_Wallet.txt and 33_delayed_Wallet.txt | Control  | 55    | 11                   | 29          | 81            |
+| 34_immediately_Wallet.txt and 34_delayed_Wallet.txt | Control  |       |                      |             |              |
 
 
 ## The Cinderella Dataset
